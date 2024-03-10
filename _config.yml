@@ -19,8 +19,8 @@ author: wllw
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
-  homocumulus: "https://homocumulus.github.io/"
+navbar-links:
+  #About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
