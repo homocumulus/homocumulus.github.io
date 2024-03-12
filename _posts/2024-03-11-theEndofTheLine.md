@@ -1,6 +1,6 @@
 ---
 layout: post
-title: this is the end of thie line buddy
+title: this is the end of the line buddy
 subtitle: thoughts on thinking
 gh-repo: homocumulus
 gh-badge: [follow]
