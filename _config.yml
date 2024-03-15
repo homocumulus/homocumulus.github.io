@@ -20,7 +20,7 @@ author: wllw
 ###############################################
 
 navbar-links:
-  #homocumulus: "https://homocumulus.github.io/"
+  clouds: "clouds"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
