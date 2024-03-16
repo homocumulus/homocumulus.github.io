@@ -1,7 +1,7 @@
 ---
 layout: post
 title: this is the end of the line buddy
-subtitle: why am i here
+subtitle: why am i here?
 gh-repo: homocumulus
 gh-badge: [follow]
 tags: [blog]
