@@ -21,6 +21,7 @@ author: wllw
 
 navbar-links:
   clouds: "https://www.flickr.com/photos/homocumulus/albums/72177720315478793"
+  about me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
