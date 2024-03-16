@@ -16,4 +16,4 @@ there might be clouds idk i need to figure that out
 
 leave a comment or a reaction to give me endorphins
 
-💗 ttly
+💗 ttyl
