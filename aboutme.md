@@ -1,5 +1,6 @@
 ---
 layout: page
+share-title: about me
 share-description: wllw's character sheet
 share-img: https://homocumulus.github.io/assets/img/charactersheet.jpeg
 ---
