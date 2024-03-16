@@ -14,7 +14,7 @@
 
   {% capture title %}
     {%- if site.title and site.title-on-all-pages and (site.title != pagetitle) -%}
-      {{ pagetitle }} | {{ site.title }}
+      {{ pagetitle }} {{ site.title }}
     {%- else -%}
       {{ pagetitle }}
     {%- endif -%}
