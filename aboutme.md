@@ -1,6 +1,8 @@
 ---
 layout: page
-title: about me
+share-title: about me
+share-description: willow's character sheet
+share-img: https://homocumulus.github.io/assets/img/avatar-icon.png
 ---
 ![image](https://homocumulus.github.io/assets/img/charactersheet.jpeg){: .mx-auto.d-block :}
 
