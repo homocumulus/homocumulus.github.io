@@ -18,4 +18,4 @@ ok so like nothing happened this week except i got this cool vanity/dresser for 
 
 sadly no hike today - linus is beside himself - so no pics to post from that. i'm not totally decided on how many images i want to post on the blog, but with the clouds on flickr they are easy to link to at least. 
 
-## oh! happy st patrick's day!
+# oh! happy st patrick's day!
