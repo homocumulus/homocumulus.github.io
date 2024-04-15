@@ -6,6 +6,7 @@ gh-repo: homocumulus
 gh-badge: [follow]
 tags: [blog, weekly update]
 author: wllw
+thumbnail-img: "https://homocumulus.github.io/assets/img/blog/muffin2.webp"
 ---
 Hi! OK so it's been a month since the last blog post but that's ok! Finding motivation is funny, maybe it's more like inspiration? Well, I touched grass.
 
