@@ -6,7 +6,7 @@ gh-repo: homocumulus
 gh-badge: [follow]
 tags: [blog, weekly update]
 author: wllw
-thumbnail-img: "https://homocumulus.github.io/assets/img/blog/muffin2.webp"
+thumbnail-img: "https://homocumulus.github.io/assets/img/blog/muffins2.webp"
 ---
 Hi! OK so it's been a month since the last blog post but that's ok! Finding motivation is funny, maybe it's more like inspiration? Well, I touched grass.
 
@@ -18,8 +18,8 @@ Sadly we didn't go on a proper hike, but I did manage to drag the mutt <3 to the
 
 I decided to use that extra time to make some muffins, pumpkin spice from a box- I'm certainly not a baker, but even we can't mess *that* up. They turned out great, and I somehow managed not to fuck them up removing them from the tray.
 
-![muffin batter](https://homocumulus.github.io/assets/img/blog/muffin1.webp){: .mx-auto.d-block :}
-![blurry muffins](https://homocumulus.github.io/assets/img/blog/muffin2.webp){: .mx-auto.d-block :}
+![muffin batter](https://homocumulus.github.io/assets/img/blog/muffins1.webp){: .mx-auto.d-block :}
+![blurry muffins](https://homocumulus.github.io/assets/img/blog/muffins2.webp){: .mx-auto.d-block :}
 
 💗 ttyl
 might have a post about worldbuilding soon...
