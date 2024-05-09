@@ -4,7 +4,7 @@ title: i love my dog
 subtitle: ah heck has it been a whole month?
 gh-repo: homocumulus
 gh-badge: [follow]
-tags: [blog, weekly update]
+tags: [blog]
 author: wllw
 thumbnail-img: "https://homocumulus.github.io/assets/img/blog/muffins2.webp"
 ---
