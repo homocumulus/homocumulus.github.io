@@ -5,7 +5,6 @@ subtitle: weekly update
 gh-repo: homocumulus
 gh-badge: [follow]
 tags: [blog]
-author: wllw
 ---
 it turns out it is really weird to write more than 140 characters after having used twitter as my only form of socialization for years. it's like i even think in tweetable chunks of information. what that means is i'm going to have to plan out these posts, write some things down throughout the day. which is the antithesis of my approach to social media: totally unplanned and unpredictable. the funny thing is, when i start to think like that i start to have all these ideas for Content, like blog posts about tabletop rpgs, or video games, or movies, or my adventure hacking my dslr, or other things of that nature. not things i could ever condense into a tweet, but ideas i want to get out of my head someday.
 

@@ -5,7 +5,6 @@ subtitle: ah heck has it been a whole month?
 gh-repo: homocumulus
 gh-badge: [follow]
 tags: [blog]
-author: wllw
 thumbnail-img: "https://homocumulus.github.io/assets/img/blog/muffins2.webp"
 ---
 Hi! OK so it's been a month since the last blog post but that's ok! Finding motivation is funny, maybe it's more like inspiration? Well, I touched grass.

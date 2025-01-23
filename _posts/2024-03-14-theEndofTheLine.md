@@ -6,7 +6,6 @@ gh-repo: homocumulus
 gh-badge: [follow]
 tags: [blog]
 comments: true
-author: wllw
 ---
 hi, willow here, basically i hate twitter and "notification" addicted social media
 
