@@ -49,10 +49,7 @@ layout: page
       {% if post.author %}
         <span>@<strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
-      <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        {{ post.date | date: date_format }}
-      </p>
+      
 
       {% if thumbnail != "" %}
       <div class="post-image post-image-small">
@@ -81,6 +78,11 @@ layout: page
       </div>
       {% endunless %}
 
+	  <p class="post-meta">
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        {{ post.date | date: date_format }}
+      </p>
+      
       {% if site.feed_show_tags != false and post.tags.size > 0 %}
       <div class="blog-tags">
         <span>🏷️</span>
