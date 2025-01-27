@@ -38,6 +38,7 @@ body {
   background-position: center;
   background-size: cover;
   background-color: var(--page-col);
+  backdrop-filter: blur(3px);
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
@@ -485,7 +486,7 @@ footer .footer-custom-content {
   padding: 1.25rem 0;
   border-bottom: 1px solid #eee;
   overflow: hidden;
-  backdrop-filter: blur(3px);
+  /* backdrop-filter: blur(3px); */
 }
 
 @media (min-width: 768px) {
