@@ -35,6 +35,7 @@ body {
   font-size: 1.125rem;
   color: var(--text-col);
   position: relative;
+  background-position: center; 
   background-color: var(--page-col);
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
