@@ -485,7 +485,7 @@ footer .footer-custom-content {
   padding: 1.25rem 0;
   border-bottom: 1px solid #eee;
   overflow: hidden;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(3px);
 }
 
 @media (min-width: 768px) {
