@@ -38,7 +38,7 @@ body {
   background-position: center;
   background-size: cover;
   background-color: var(--page-col);
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(4px);
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
