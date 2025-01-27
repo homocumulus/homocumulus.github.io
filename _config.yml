@@ -133,13 +133,13 @@ navbar-var-length: false
 page-col: "#0E1113"
 text-col: "#0E1113"
 link-col: "#b00b69"
-hover-col: "#b00b69"
+hover-col: "#FFFFF0"
 navbar-col: "#b00b69"
 navbar-text-col: "#FFFFF0"
 navbar-border-col: "#FFFFF0"
 footer-col: "#0E1113"
 footer-text-col: "#FFFFF0"
-footer-link-col: "#b00b69"
+footer-link-col: "#FFFFF0"
 footer-hover-col: "#b00b69"
 
 #dark mode
