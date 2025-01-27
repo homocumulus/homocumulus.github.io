@@ -132,15 +132,15 @@ navbar-var-length: false
 
 page-col: "#0E1113"
 text-col: "#0E1113"
-link-col: "#EB8A90"
-hover-col: "#EB8A90"
+link-col: "#b00b69"
+hover-col: "#b00b69"
 navbar-col: "#b00b69"
 navbar-text-col: "#FFFFF0"
 navbar-border-col: "#FFFFF0"
 footer-col: "#0E1113"
 footer-text-col: "#FFFFF0"
-footer-link-col: "#EB8A90"
-footer-hover-col: "#EB8A90"
+footer-link-col: "#b00b69"
+footer-hover-col: "#b00b69"
 
 #dark mode
 #page-col: "#0E1113"
