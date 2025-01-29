@@ -161,7 +161,7 @@ footer-hover-col: "#b00b69"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/Lumii_20221028_213530009.jpg"
+#page-img: "/assets/img/Lumii_20221028_213530009.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 mobile-theme-col: "#b00b69"
