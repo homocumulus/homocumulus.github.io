@@ -35,8 +35,8 @@ body {
   font-size: 1.125rem;
   color: var(--text-col);
   position: relative;
-  background-position: center;
-  /*background-size: cover;*/
+  /*background-position: center;
+  background-size: cover;*/
   background-color: var(--page-col);
   backdrop-filter: blur(4px);
   {% if site.page-img %}
