@@ -10,7 +10,7 @@ It lay a moment in the silence, slowly extending brass claws that shone dully in
 "Who dares call me, and why?" it snarled.
 An ashen voice with the crackle of old leaves filled the space around it. "I, the Darklord and rightful master of the kingdom, summon you to aid me in my desire," came the reply.
 
-"And what shall you pay this time, O noble one?" it leered. "You rot. I smell weakness and you risk my wrath." It rose within the waning flames, majestic wings spread wide. "My service grows expensive, lord, and you waste my time.
+"And what shall you pay this time, O noble one?" it leered. "You rot. I smell weakness and you risk my wrath." It rose within the waning flames, majestic wings spread wide. "My service grows expensive, 'lord', and you waste my time.
 
 "I do not buy you. I own you, Demon." The voice held an ancient menace. "Come. Tell me I do not."
 
@@ -20,16 +20,18 @@ A scream sliced through the ancient chamber. "The stone? You? You have stolen th
 
 "Return it to me!" it hissed.
 
-"Pledge your fealty, vain, or you will never crawl back to this plane again."
+"Pledge your fealty, worm, or you will never crawl back to this plane again."
 
 The large wings folded in bitter resignation. "You have my service, master. What would you have me do?"
 
 "Revive the Temple of Dragons. Build a force and conquer Terverni. I want that land to die!"
 
-"Idiot," he whispered to himself. "I smell weakness."
+"Idiot," he whispered to himself.
+
+I smell weakness.
 
 He pushed against the hard stone of the floor, rising to face this challenge that called him across the void anchoring all dimensions.
 
-Within his heart pounded that which passed for blood in his veins, bathed in the madness of terror, and the resolution of revenge.
+Within the heart of him, that which passed for blood in his veins pounded and convulsed, bathed in the madness of terror. And the resolution of revenge.
 
 [Begin Your Adventure](https://homocumulus.github.io/swordquest/1)
