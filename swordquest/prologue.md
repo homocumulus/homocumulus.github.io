@@ -2,7 +2,7 @@
 layout: page
 share-title: sword quest prologue
 share-description: sword quest prologue
-subtitle: prologue
+title: prologue
 ---
 An angry stench with the taste of old hell filled its nostrils. A moment of space-less than an instant and longer than eternity—found it reflected in a thousand worlds, only ten of which knew its name. Two hundred and nine of them were painfully hostile to its very existence, and on four it simply died. Its skin flamed, searing the surrounding air, heat radiating with a strength that brought the iron-hard scales of its arms to a white glow. It groaned in numb confusion and fought to empty the terror from its brain so the mind could return. A cry of pain hissed past white gleaming fangs, agony twisting through the muscles of a body torn across time.
 
