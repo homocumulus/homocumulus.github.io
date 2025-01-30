@@ -35,4 +35,4 @@ He pushed against the hard stone of the floor, rising to face this challenge tha
 
 Within the heart of him, that which passed for blood in his veins pounded and convulsed, bathed in the madness of terror. And the resolution of revenge...
 
-[Section 1](https://homocumulus.github.io/swordquest/1)
+[section 1](https://homocumulus.github.io/swordquest/1)
