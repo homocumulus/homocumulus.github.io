@@ -1,7 +1,7 @@
 ---
 layout: page
-share-title: sword quest prologue
-share-description: sword quest prologue
+share-title: sword quest
+share-description: sword quest
 title: swordquest
 ---
 this is swordquest by tsr
