@@ -273,7 +273,7 @@ timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 100
 
 kramdown:
   input: GFM
